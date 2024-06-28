@@ -1,5 +1,7 @@
 <h2 align="center">Iyarsius</h2>
 
+<div align="center"> Hi there, i'm iyarsius a self made developer. My favorites topics are Blockchain, Web Scraping and Mobile development.</div>
+
 <div align="center">
   <a href="https://github.com/iyarsius">
   <p align="center">
